@@ -20,7 +20,7 @@ const App = () => {
       <Navbar />
       <div className="container">
         <Home />
-        <Experience />
+      
         <Skills />
         <Projects />
         <Contact />

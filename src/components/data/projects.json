@@ -1,34 +1,51 @@
 [
   {
     "key": 1,
-    "title": "React E-Commerce",
-    "imageSrc": "https://cdn.pixabay.com/photo/2018/02/04/17/39/crypto-currency-3130381_640.jpg",
-    "description": "This is a project made with complete React js.",
+    "title": "Meet-A zoom clone",
+    "imageSrc": "https://imgs.search.brave.com/icM3WQr9KZfXg3rmTFI3ah-ZkZupDyGAxMlO0wMu9Hc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/ZnJlZS1waG90by9n/cm91cC1mcmllbmRz/LXZpZGVvLWNoYXQt/Y29ubmVjdGlvbi1j/b25jZXB0XzUzODc2/LTEyMDExNy5qcGc_/c2l6ZT02MjYmZXh0/PWpwZw",
+    "description": "Built with Next.js, TypeScript, Clerk, and Stream, featuring meeting creation and screen sharing.",
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/akbaralyy/meet-v0"
   },
   {
     "key": 2,
-    "title": "MERN Blogging",
-    "imageSrc": "https://cdn.pixabay.com/photo/2017/05/02/15/30/streets-2278471_640.jpg",
-    "description": "This is a project made with complete React js.",
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Animated gym Website",
+    "imageSrc": "https://imgs.search.brave.com/AAoYUtF7VfifiuyXZ_qc9G_0R45puynSHr5iaRD0K8s/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by9pbWFnZS1neW0t/Zml0bmVzcy1ib2R5/YnVpbGRpbmctY29u/Y2VwdC1taXhlZC1t/ZWRpYV8zOTI3NjEt/Mzk2OS5qcGc_c2l6/ZT02MjYmZXh0PWpw/Zw",
+    "description": "Created with React, Express, and Node.js, showcasing advanced animations and a responsive design.",
+    "demo": "https://fitclubakbar.pages.dev/",
+    "source": "https://github.com/akbaralyy/Fit-club"
   },
   {
     "key": 3,
-    "title": "React Recipe",
-    "imageSrc": "https://cdn.pixabay.com/photo/2016/08/16/17/12/skyscrapers-1598418_640.jpg",
-    "description": "This is a project made with complete React js.",
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Restaurant websit",
+    "imageSrc": "https://images.pexels.com/photos/67468/pexels-photo-67468.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "description": " Developed using the MERN stack for user authentication, real-time updates, and a responsive interface.",
+    "demo": "https://akbar-restaurent.netlify.app/",
+    "source": "https://github.com/akbaralyy/Restaurent"
   },
   {
     "key": 4,
-    "title": "React Firebase App",
-    "imageSrc": "https://cdn.pixabay.com/photo/2021/03/02/01/07/cyberpunk-6061251_640.jpg",
-    "description": "This is a project made with complete React js.",
+    "title": "News website",
+    "imageSrc": "https://imgs.search.brave.com/H4Y3z9e3YqZxRCv0A57xslw1oy_ZknKq_AlTLoIJJDc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTM1/MTcwNTg2NC9waG90/by90aGUtd29yZHMt/YnJlYWtpbmctbmV3/cy1vbi1hbi1hYnN0/cmFjdC1iYWNrZ3Jv/dW5kLmpwZz9zPTYx/Mng2MTImdz0wJms9/MjAmYz1ydDVWb3Rx/LUlyM2pzVG5fb2JJ/SDdUREs1N0g5MmJ3/UzN6dWlNQnI1ZHNZ/PQ",
+    "description": "Developed with React.js, offering real-time updates and a modern, intuitive user interface.",
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/akbaralyy/NewsWebsite"
+  },
+  {
+    "key": 5,
+    "title": "To do List",
+    "imageSrc": "https://imgs.search.brave.com/vh8kf51UUfItku8NwyGSX9EQbdWfF6YV-FAbfGPg8Ns/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/cGl4YWJheS5jb20v/cGhvdG8vMjAyMC8w/NS8zMC8wOS81My90/b2RvLWxpc3RzLTUy/MzgzMjRfNjQwLmpw/Zw",
+    "description": "Built using React.js, providing CRUD operations and an intuitive interface for task management.",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/akbaralyy/vue-toDos"
+  },
+  {
+    "key": 6,
+    "title": "Quiz website",
+    "imageSrc": "https://imgs.search.brave.com/E4AFwAlzfCjXmLaEgkis3MYQmr-zFmzpL-8LA1vZFa4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzVlL2Ew/LzIwLzVlYTAyMDZk/M2U0NTc3OTg2YWNk/NTJlNmFlMWQ1ZWZi/LmpwZw",
+    "description": "Created with React.js, featuring dynamic question sets, user scoring, and a responsive design.",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/akbaralyy/Quiz-app"
   }
+  
 ]
